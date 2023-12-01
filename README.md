@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Ahmad Pandu Wijaya**.
 
 Saya seorang **Mahasiswa** di Universitas Aisiyah Yogyakarta.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ahmdwijy)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmdwijy)ku ya.
 
 ### Github Statistic
 <p align="left">
